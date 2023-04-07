@@ -29,3 +29,10 @@
 2. Start JavaScript Debug Terminal
 3. In that terminal run `ts-node <fileName>`
 
+## How to upload your changes to GitHub
+
+1. Using Source Control press Commit, then Sync Changes
+
+## How to download upgates from GitHub
+
+1. In terminal `git pull`
